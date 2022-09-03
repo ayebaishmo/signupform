@@ -6,11 +6,11 @@
 }
 
 .the {
-background-color: rgba(111, 175, 184, 0.705);
-color: white;
-position: absolute;
-width: 430px;
-margin-top: 150px;
+ background-color: rgba(111, 175, 184, 0.705);
+ color: white;
+ position: absolute;
+ width: 430px;
+ margin-top: 150px;
 }
 
  .mainDiv {
@@ -25,8 +25,7 @@ margin-top: 150px;
 
 .real {
  background-color: rgba(247, 249, 250, 0.705);
- margin-top: -100px;
- height: 180px;
+ height: 200px;
 }
 
 .serv {
@@ -42,6 +41,8 @@ margin-top: 150px;
 legend {
  padding-left: 50px;
  font-weight: bold;
+ padding-top: 20px;
+ padding-bottom: 20px;
 }
 
 .inp {
@@ -69,6 +70,7 @@ button {
  border-radius: 5px;
  color: white;
  cursor: pointer;
+ margin-top: 20px;
 }
 
 .login {
@@ -77,4 +79,13 @@ button {
 
 h1 {
  padding-left: 100px;
+}
+
+.middl {
+ box-shadow: 0 8px 2px -2px rgba(101, 103, 104, 0.705);
+}
+
+.last {
+ background-color: rgba(247, 249, 250, 0.705);
+ height: 190px;
 }
